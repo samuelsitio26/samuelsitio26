@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelsitio26&label=Profile%20views&color=0e75b6&style=flat" alt="samuelsitio26" /> </p>
 
-- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6943546157860505329?pli=1](https://www.blogger.com/blog/posts/6943546157860505329?pli=1)](https://samueljanringsitio.blogspot.com/)
+- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6943546157860505329?pli=1](https://samueljanringsitio.blogspot.com/)
 - 📫 How to reach me **samueljanringsitio@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
