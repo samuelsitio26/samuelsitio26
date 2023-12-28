@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/samuel janring sitio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel janring sitio" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/samuel janring sitio](https://www.linkedin.com/in/samuel-janring-sitio-560b892a6/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel janring sitio" height="30" width="40" /></a>
 <a href="https://instagram.com/samueljs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samueljs_" height="30" width="40" /></a>
 <a href="https://discord.gg/samueljs_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samueljs_123" height="30" width="40" /></a>
 </p>
