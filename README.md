@@ -11,6 +11,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/samuel-janring-sitio-6895992aa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel janring sitio" height="30" width="40" /></a>
 <a href="https://instagram.com/samueljs_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="samueljs_" height="30" width="40" /></a>
+<a href="mailto:samueljanringsitio@gmail.com"><img align="left" alt="marceljsh's Gmail" width="30px" src="https://cdn.simpleicons.org/gmail" /></a>
 <a href="https://discord.gg/samueljs_123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="samueljs_123" height="30" width="40" /></a>
 </p>
 
