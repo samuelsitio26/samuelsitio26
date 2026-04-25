@@ -1,92 +1,66 @@
-<h1 align="center">Hi 👋, I'm Samuel Janring Sitio</h1>
-<h3 align="center">🚀 Fullstack Developer | Backend Enthusiast | AI & Web Development</h3>
+<!-- 🔥 Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=250&section=header&text=Samuel%20Sitio&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<img align="right" alt="coding" width="380" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<!-- 👋 Intro -->
+<h1 align="center">Hi 👋, I'm Samuel Sitio</h1>
+<h3 align="center">🚀 Fullstack Developer | AI Engineer | Backend Specialist</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=samuelsitio26&label=Profile%20views&color=0e75b6&style=flat" alt="samuelsitio26" />
+<!-- ✨ Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Fullstack+Developer;AI+Engineer;Backend+Specialist;Always+Learning" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 💡 Passionate in **Fullstack Development & Artificial Intelligence**
-- 🔭 Currently working on **Web Development & Smart Systems**
-- 🌱 Learning more about **System Design, AI Integration, and Scalable Backend**
-- 🎯 Focused on building **efficient, scalable, and real-world solutions**
-- 📝 I write articles here:  
-  👉 https://samueljanringsitio.blogspot.com/
+<!-- 🖼 GIF + About -->
+<img align="right" alt="coding" width="350" src="https://camo.githubusercontent.com/958df95703ef53e2517c75d59599761f2aa1cee6f036d73084cec87653fc1a58/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966">
+
+## 👨‍💻 About Me
+- 💡 Passionate in **Fullstack Development & Artificial Intelligence**  
+- 🔭 Currently working on **Web Development & Smart Systems**  
+- 🌱 Learning **System Design, AI Integration, Scalable Backend**  
+- 🎯 Focused on building **real-world impactful solutions**  
 
 ---
 
-### 📫 Contact Me
-- ✉️ Email: **samueljanringsitio@gmail.com**
-- 💼 LinkedIn: https://www.linkedin.com/in/samuel-janring-sitio-6895992aa/
-- 📸 Instagram: https://instagram.com/samueljs_
-- 💬 Discord: samueljs_123
+## 🛠 Tech Stack
 
----
-
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/samuel-janring-sitio-6895992aa/" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://instagram.com/samueljs_" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-</a>
-<a href="mailto:samueljanringsitio@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail" height="30" width="40"/>
-</a>
-<a href="https://discord.gg/samueljs_123" target="blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
-</a>
+<p align="center">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 📊 GitHub Stats
 
-#### 🚀 Frontend
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-</p>
-
-#### ⚙️ Backend
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-</p>
-
-#### 🗄️ Database
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40"/>
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
-</p>
-
-#### 🧰 Tools & Others
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samuelsitio26&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samuelsitio26&theme=tokyonight" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelsitio26&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelsitio26&show_icons=true&locale=en" />
-</p>
+## 🚀 Featured Projects
+- 🌍 Tourism Recommendation System (CAG-RAG Hybrid)  
+- 🤖 AI Chatbot for Smart Tourism  
+- 📊 Data Analytics Dashboard  
 
 ---
 
-### ⚡ Fun Fact
-> I love turning complex problems into simple, scalable solutions 🚀
+## 📫 Contact Me
+- ✉️ Email: **samueljanringsitio@gmail.com**  
+- 💼 LinkedIn: https://www.linkedin.com/in/samuel-janring-sitio-6895992aa/  
+- 📸 Instagram: https://instagram.com/samueljs_  
+
+---
+
+## ⚡ Fun Fact
+> I love turning complex problems into scalable solutions 🚀
